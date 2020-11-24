@@ -94,7 +94,7 @@
     "vanilla-picker": "^2.8.1"
   },
   "devDependencies": {
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "devtron": "^1.4.0",
     "electron": "^5.0.1",
     "electron-builder": "^20.40.2",
