@@ -68,7 +68,7 @@
   "dependencies": {
     "animejs": "^3.0.1",
     "async": "^2.6.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "conf": "^2.2.0",
     "conic-gradient": "^1.0.0",
     "date-fns": "^2.0.0-alpha.27",
